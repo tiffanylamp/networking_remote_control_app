@@ -11,7 +11,7 @@ The system consists of two separate Python programs: a **Server** that listens f
    Open a split terminal and run python client.py 
    Go through the selections on client.py 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/PxBq0mdMLR0)
 
 ## Purpose
 The primary purpose of writing this software was to explore the OSI Transport and Application layers in practice, specifically learning how to establish reliable TCP socket connections, encode and decode custom JSON message formats, and safely handle remote command execution (subprocess).
